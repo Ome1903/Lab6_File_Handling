@@ -1,0 +1,5 @@
+Student: Olermo
+Student ID: TUPM-26-1925
+Seed digit: 5
+ID sum: 25
+Verification value: 155
