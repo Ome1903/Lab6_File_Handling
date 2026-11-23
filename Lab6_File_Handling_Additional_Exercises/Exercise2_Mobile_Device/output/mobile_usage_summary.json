@@ -1,0 +1,13 @@
+{
+    "student": "Olermo",
+    "student_id": "TUPM-26-1925",
+    "operating_system": "iOS",
+    "behavior_class": 1,
+    "total_records": 700,
+    "records_matching_os": 146,
+    "selected_records": 22,
+    "average_battery_drain": 467.22727272727275,
+    "average_data_usage": 201.45454545454547,
+    "exported_record_count": 22,
+    "count_verified": true
+}

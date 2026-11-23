@@ -3,3 +3,5 @@ __pycache__
 *.pyc
 .ipynb_checkpoints/
 data/
+# Raw Kaggle datasets
+Lab6_File_Handling_Additional_Exercises/data/
